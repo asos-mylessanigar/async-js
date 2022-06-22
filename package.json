@@ -1,0 +1,11 @@
+{
+  "name": "async-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.6"
+  },
+  "type": "module"
+}
